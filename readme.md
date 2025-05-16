@@ -18,4 +18,4 @@ This project is a data-driven dashboard built with Streamlit to help small busin
 - Fully deployed on Streamlit Cloud
 
 ## Live App
-[Click here to view the live dashboard]  https://machine-learning-projects-ekxn6tqsplvnb8shvbepah.streamlit.app/
+[Click here to view the live dashboard]  https://machine-learning-projects-otao68rszfqgcfmocceyn2.streamlit.app/
