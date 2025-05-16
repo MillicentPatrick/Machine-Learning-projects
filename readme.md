@@ -7,6 +7,7 @@ This project is a data-driven dashboard built with Streamlit to help small busin
 - Streamlit: For web app interface
 - Power BI: For initial exploratory visualizations
 - Git & GitHub: For version control and deployment
+- Streamlit :Deployment
 
 ## Features
 - KPI Metrics: Sales, Orders, Product Counts
